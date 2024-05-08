@@ -2,6 +2,8 @@
 
 This project aims to design and deploy an ML algorithm using Streamlit to predict if a patient has Hepatitis C.
 
+This is a copy of the initial [code](https://github.com/nguefackuriel/Hepathitis-C-Prediction-paper). We don't save data entered into the app in a Google sheet.
+
 The project has been done in collaboration with [Pauline Ornela Megne](https://github.com/MEGNEOrnela), [Binta Sow](https://github.com/BintaSOW1) and Abduljaleel Adejumo.
 
 The app can be tested using this [link](https://apps.healthuniverse.com/nyb-dmk-wnr/) 
